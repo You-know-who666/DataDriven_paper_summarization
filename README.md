@@ -6,4 +6,4 @@ Scientific papers describing research methodology and findings are the gold stan
 
 While this task isn't easy to do well, it's easy to start! This is a practice competition designed to be accessible to participants at all levels. That makes it a great place to dive into the world of data science competitions or explore LLMs for the first time.
 
-https://www.drivendata.org/competitions/297/whats-up-docs/
+Refer to the website https://www.drivendata.org/competitions/297/whats-up-docs/ for further details.
